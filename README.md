@@ -11,7 +11,7 @@ Ce projet a pour objectifs de:
 - s’assurer que toutes les opérations d’ annulation OM sur les numéros des clients se font sur demande formelle des clients.
 
 
-[Voir rapport complet] ()
+[Voir rapport complet] (https://github.com/Smben-Mlk/Automatisation-analyse-des-op-rations-de-transactions-OM/blob/main/RAPPORT%20CONTR%C3%94LE%20DES%20OP%C3%89RATIONS%20DE%20CA%20SUIVI%20DE%20RESET%20PIN%20ET%20ANNULATION%20DES%20TRANSACTIONS%20OM.pdf)
 
 ## Outils
 
