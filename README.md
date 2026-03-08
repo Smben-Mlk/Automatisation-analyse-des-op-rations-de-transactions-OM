@@ -1,4 +1,4 @@
-# Automatisation-analyse-des-op-rations-de-transactions-OM
+# Automatisation-analyse-des-operations-de-transactions-OM
 
 ## Objectif
 
